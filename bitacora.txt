@@ -22,4 +22,9 @@
 				    se cogería la diferencia entre el fichero bitacora que hay en master 
                                     y el fichero bitacora de Lola, con lo cual se añadiría el nombre y apellidos
 				    junto a los pasos apuntados del 1 al 8.
-
+ (16)  Añadido el fichero bitacora
+       al área de preparación
+ (17)  Commit con mensaje "Paso 17"
+ (18)  Merge de la rama Paco a la   Hay conflictos entre la rama master y la rama Paco, se hace commit del archivo con todos los pasos añadidos quitando las cabeceras de <<HEAD
+       rama master. Fusión por
+       recursión.
