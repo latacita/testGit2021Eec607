@@ -1,8 +1,24 @@
-%%==================================================================%%
+﻿%%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Entrecanales Cuenca, Eduardo         %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)  Clonación repositorio git
+ (02)  "Branch" de rama Paco y push
+ (03)  "Branch" de rama Lola y push
+ (04)  Checkout a la rama Paco
+ (06)  Añadido el fichero bitacora 
+       al área de preparación
+ (07)  Commit con mensaje "Paso 7"
+ (08)  Checkout a la rama Lola
+ (10)  Añadido el fichero bitacora
+       al área de preparación
+ (11)  Commit con mensaje "Paso 11"
+ (13)  Checkout a la rama master
+ (14)  Observación. Ver Notas       Si se realizara la fusión de Lola con Master 
+				    se cogería la diferencia entre el fichero bitacora que hay en master 
+                                    y el fichero bitacora de Lola, con lo cual se añadiría el nombre y apellidos
+				    junto a los pasos apuntados del 1 al 8.
