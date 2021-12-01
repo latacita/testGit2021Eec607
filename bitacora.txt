@@ -1,8 +1,16 @@
-%%==================================================================%%
+﻿%%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Entrecanales Cuenca, Eduardo         %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)  Clonación repositorio git
+ (02)  "Branch" de rama Paco y push
+ (03)  "Branch" de rama Lola y push
+ (04)  Checkout a la rama Paco
+ (06)  Añadido el fichero bitacora 
+       al área de preparación
+ (07)  Commit con mensaje "Paso 7"
+ (08)  Checkout a la rama Lola
