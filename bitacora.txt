@@ -22,3 +22,4 @@
 				    se cogería la diferencia entre el fichero bitacora que hay en master 
                                     y el fichero bitacora de Lola, con lo cual se añadiría el nombre y apellidos
 				    junto a los pasos apuntados del 1 al 8.
+
