@@ -14,3 +14,12 @@
        al área de preparación
  (07)  Commit con mensaje "Paso 7"
  (08)  Checkout a la rama Lola
+ (10)  Añadido el fichero bitacora
+       al área de preparación
+ (11)  Commit con mensaje "Paso 11"
+ (20)  Añadido el fichero bitacora 
+       al área de preparación
+ (21)  Commit con mensaje "Paso 21"
+ (22)  Checkout a la rama Lola
+ (23)  Se restablece un stash realizado
+       en el paso 21.
