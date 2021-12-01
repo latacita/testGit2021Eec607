@@ -17,7 +17,6 @@
  (10)  Añadido el fichero bitacora
        al área de preparación
  (11)  Commit con mensaje "Paso 11"
-<<<<<<< HEAD
  (13)  Checkout a la rama master
  (14)  Observación. Ver Notas       Si se realizara la fusión de Lola con Master 
 				    se cogería la diferencia entre el fichero bitacora que hay en master 
@@ -29,11 +28,16 @@
  (18)  Merge de la rama Paco a la   Hay conflictos entre la rama master y la rama Paco, se hace commit del archivo con todos los pasos añadidos quitando las cabeceras de <<HEAD
        rama master. Fusión por
        recursión.
-=======
  (20)  Añadido el fichero bitacora 
        al área de preparación
  (21)  Commit con mensaje "Paso 21"
  (22)  Checkout a la rama Lola
  (23)  Se restablece un stash realizado
        en el paso 21.
->>>>>>> Lola
+ (25)  Añadido el fichero bitacora 
+       al área de preparación
+ (26)  Commit con mensaje "Paso 26"
+ (27)  Checkout a la rama Master
+ (28)  Merge de la rama Lola a la   Hay conflicto ya que el paso 20 de Lola estaba justo después del 11 y en la rama master no,
+       rama master. Fusión por      se removieron las cabeceras <<<<HEAD y >>>Lola sin hacer falta nada más, ya que los pasos estaban 
+       recursión.                   ordenados.
